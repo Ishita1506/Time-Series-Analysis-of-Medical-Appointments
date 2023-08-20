@@ -1,10 +1,11 @@
 # Analysing Data using SQL
 
 
- Task 1. How many values are there in the given dataset.
-   select count(*) 
-   From patients;
-
+#### Task 1. How many values are there in the given dataset.
+<pre>
+select count(*) 
+From patients;
+</pre>
 Task 2. Count the number of appointments for each day in the given dataset.
 
 
