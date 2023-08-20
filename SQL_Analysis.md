@@ -1,7 +1,7 @@
 # Analysing Data using SQL
 
 
-Task 1. How many values are there in the given dataset.
+# Task 1. How many values are there in the given dataset.
   select count(*) 
   From patients;
 
