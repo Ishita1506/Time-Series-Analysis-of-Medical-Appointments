@@ -2,8 +2,8 @@
 
 
 Task 1. How many values are there in the given dataset.
-select count(*) 
-From patients;
+  select count(*) 
+  From patients;
 
 Task 2. Count the number of appointments for each day in the given dataset.
 
